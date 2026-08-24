@@ -162,6 +162,4 @@ const digestString = loaderUtils.getHashDigest(
 - `digestType` one of `hex`, `base26`, `base32`, `base36`, `base49`, `base52`, `base58`, `base62`, `base64`, `base64safe`
 - `maxLength` the maximum length in chars
 
-## License
 
-MIT (http://www.opensource.org/licenses/mit-license.php)
